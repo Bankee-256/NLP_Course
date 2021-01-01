@@ -1,3 +1,3 @@
-# NLP_Cource
-CQU_NLP_Cource 
+# NLP_Course
+CQU_NLP_Course 
 include homeworks and labs
